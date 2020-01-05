@@ -18,3 +18,6 @@ def fizz_buzz():
 
 def check_number(current_number, mod_number):
     return current_number % mod_number == 0
+
+
+main()
